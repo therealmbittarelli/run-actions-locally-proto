@@ -23,7 +23,8 @@ jobs:
           echo Doop dee doop
           echo Doop a dee doop
 
+      # Executes a file
       - name: Run script
-        uses: ./
+        shell: bash
         run: |
-          node justAScript.js
+          node ./.github/workflows/justAScript.js
