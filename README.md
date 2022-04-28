@@ -4,6 +4,8 @@ While working on E2E testing, I came across a promising tool that allows users t
 
 I've got much more playing around to do with Act, but it seems like a great option to allow for some local testing and troubleshooting of GH Actions, particularly for Actions that are run on non-default branches and therefore cannot be manually triggered via the GH UI. I also look forward to cutting down on the number of failed Actions logged while I'm still ironing things out!
 
+This project consists of a prototype Workflow that I've configured to run locally.
+
 ---
 
 ## nektos/act
