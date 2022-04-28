@@ -7,7 +7,7 @@ on:
     [main]
 
 jobs:
-  run_tests:
+  run_action:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,5 +24,6 @@ jobs:
           echo Doop a dee doop
 
       - name: Run script
-        runs:
-          main: '../../justAScript.js'
+        uses: ./
+        run: |
+          node justAScript.js
