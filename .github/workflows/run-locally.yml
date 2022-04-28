@@ -4,7 +4,8 @@ on:
   # Trigger the workflow on pull request to the dev branch
   workflow_dispatch:
   push:
-    [main]
+    branches:
+      [main]
 
 jobs:
   run_action:
