@@ -10,7 +10,7 @@ This project consists of a prototype Workflow that I've configured to run locall
 
 ## nektos/act
 
-Act leverages the Docker API, which is a technology that I have only danced around 💃  and thus I have very little to say about it. That's a deep dive for another Research Central quest! 🛡️ ⚔️  But if you're interested, there's a bit of an explanation about _how_ Act leverages the Docker API in the documentation, linked below.
+Act leverages the Docker API, which is a technology that I have only danced around 💃  and thus I have very little to say about it. I can tell you the basics, here - that Docker is a more lightweight, scalable alternative to a virtual machine. That's a deep dive for another Research Central quest, though! 🛡️ ⚔️ But if you're interested, there's a bit of an explanation about _how_ Act leverages the Docker API in the Act documentation, linked below.
 
 ## :computer:&nbsp; Environment setup
 
