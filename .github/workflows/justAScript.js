@@ -10,7 +10,7 @@ const quotes = [
     "People underestimate the power of nostalgia. Nostalgia is truly one of the greatest human weaknesses, second only to the neck.\n- Dwight Schrute",
     "When my mother was pregnant with me, they did an ultrasound and found she was having twins. When they did another ultrasound a few weeks later, they discovered that I had adsorbed the other fetus. Do I regret this? No, I believe his tissue has made me stronger. I now have the strength of a grown man and a little baby.\n- Dwight Schrute",
     "In an ideal world, I would have all 10 fingers on my left hand so my right hand could just be a fist for punching.\n- Dwight Schrute",
-    "Dolphins get a lot of good publicity for the drowning swimmers they push back to shore, but what you don’t hear about is the many people they push farther out to sea! Dolphins aren’t smart. They just like pushing things.\n- Dwight Schrute",
+    "Dolphins get a lot of good publicity for the drowning swimmers they push back to shore, but what you don’t hear about is the many people they push farther out to sea! Dolphins aren’t smart. They just like pushing things.\n- Dwight Schrute"
 ];
 
 const arrayIndex = Math.floor(Math.random() * quotes.length);
